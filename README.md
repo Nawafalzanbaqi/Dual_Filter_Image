@@ -199,21 +199,6 @@ All filters are implemented identically in both editions:
 
 ---
 
-## 📋 Documentation
-
-### Main Documentation
-- **[README.md](README.md)** - This file (project overview)
-- **[docs/COMPARISON.md](docs/COMPARISON.md)** - Technical comparison between editions
-- **[docs/FEATURES.md](docs/FEATURES.md)** - Detailed feature overview
-- **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** - Architecture and design patterns
-- **[docs/BUILD_GUIDE.md](docs/BUILD_GUIDE.md)** - Build and deployment instructions
-
-### Edition-Specific Documentation
-- **[csharp/README.md](csharp/README.md)** - C# WinForms specific details
-- **[java/README.md](java/README.md)** - Java JavaFX specific details
-
----
-
 ## 🎓 Learning Outcomes
 
 This unified dual-implementation project teaches:
@@ -426,26 +411,6 @@ Developed as a professional educational project showcasing:
 
 ---
 
-## 🔗 Quick Navigation
-
-### C# Edition
-- [C# README](csharp/README.md)
-- [C# Source Code](csharp/MainForm.cs)
-- [C# Project File](csharp/ImageProcessorWinForms.csproj)
-
-### Java Edition
-- [Java README](java/README.md)
-- [Java Source Code](java/src/main/java/com/imageprocessor/)
-- [Java Build File](java/pom.xml)
-
-### Documentation
-- [Feature Overview](docs/FEATURES.md)
-- [Technical Comparison](docs/COMPARISON.md)
-- [Architecture Details](docs/ARCHITECTURE.md)
-- [Build Guide](docs/BUILD_GUIDE.md)
-
----
-
 **Version**: 2.0 (Unified Multi-Language Edition)  
 **Last Updated**: 2025  
 **Status**: ✅ Both Editions Production Ready  
@@ -475,23 +440,6 @@ Developed as a professional educational project showcasing:
 **Java JavaFX** → Cross-platform, modern UI
 
 Both are equally capable and production-ready!
-
----
-
-## 📚 Table of Contents
-
-1. [Quick Start](#quick-start)
-2. [Features](#-key-features)
-3. [Filters](#-available-filters)
-4. [Processing Modes](#-processing-modes)
-5. [Edition Comparison](#-edition-comparison)
-6. [Technical Stack](#-technical-stack)
-7. [Documentation](#-documentation)
-8. [Learning Outcomes](#-learning-outcomes)
-9. [Getting Started](#-getting-started)
-10. [Performance](#-performance-metrics)
-11. [Troubleshooting](#-troubleshooting)
-12. [Future Enhancements](#-future-enhancements)
 
 ---
 
