@@ -1,4 +1,0 @@
-C:\Users\nefo2\Desktop\programm\C#\obj\Debug\net6.0-windows\ImageFilterApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nefo2\Desktop\programm\C#\obj\Debug\net6.0-windows\ImageFilterApp.AssemblyInfoInputs.cache
-C:\Users\nefo2\Desktop\programm\C#\obj\Debug\net6.0-windows\ImageFilterApp.AssemblyInfo.cs
-C:\Users\nefo2\Desktop\programm\C#\obj\Debug\net6.0-windows\ImageFilterApp.csproj.CoreCompileInputs.cache
