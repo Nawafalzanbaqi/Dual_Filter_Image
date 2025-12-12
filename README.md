@@ -33,14 +33,14 @@
 ```
 ImageProcessor/
 │
-├── csharp/                          # C# .NET Edition
-│   ├── MainForm.cs                  # UI + Logic (single file)
-│   ├── Program.cs                   # Entry point
+├── csharp/                           # C# .NET Edition
+│   ├── MainForm.cs                   # UI + Logic (single file)
+│   ├── Program.cs                    # Entry point
 │   ├── ImageProcessorWinForms.csproj # Project configuration
-│   └── README.md                    # C# specific docs
+│   └── README.md                     # C# specific docs
 │
-├── java/                            # Java JavaFX Edition
-│   ├── pom.xml                      # Maven configuration
+├── java/                             # Java JavaFX Edition
+│   ├── pom.xml                       # Maven configuration
 │   ├── src/
 │   │   └── main/
 │   │       ├── java/
@@ -53,17 +53,17 @@ ImageProcessor/
 │   │       │           └── MainWindow.java
 │   │       └── resources/
 │   │           └── styles.css
-│   └── README.md                    # Java specific docs
+│   └── README.md                     # Java specific docs
 │
-├── docs/                            # Shared documentation
-│   ├── COMPARISON.md                # Technical comparison
-│   ├── FEATURES.md                  # Feature overview
-│   ├── ARCHITECTURE.md              # Architecture details
-│   └── BUILD_GUIDE.md               # Build instructions
+├── docs/                             # Shared documentation
+│   ├── COMPARISON.md                 # Technical comparison
+│   ├── FEATURES.md                   # Feature overview
+│   ├── ARCHITECTURE.md               # Architecture details
+│   └── BUILD_GUIDE.md                # Build instructions
 │
-├── README.md                        # This file (main entry point)
-├── LICENSE                          # Open source license
-└── .gitignore                       # Git configuration
+├── README.md                         # This file (main entry point)
+├── LICENSE                           # Open source license
+└── .gitignore                        # Git configuration
 ```
 
 ---
