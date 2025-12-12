@@ -9,6 +9,12 @@
 
 ---
 
+## 📸 Screenshot
+![App Screenshot](assets/images/ImageProcessor.png)
+
+
+---
+
 ## 📌 Project Overview
 
 **Image Processor** is a professional desktop application demonstrating modern image processing techniques with **dual language implementations** in the same repository. Load a single image and process it simultaneously in two independent streams using different modes—manual or automatic.
